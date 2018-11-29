@@ -1,2 +1,2 @@
 # TestingGit
-Testing to create GIT repo
+Testing to create GIT repo for team jjfg
